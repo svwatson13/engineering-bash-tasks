@@ -12,3 +12,6 @@
 ## Handle distractions
 - Stay focused
 - New feed eradicator
+
+## Task management
+- Identifying tasks which take least time for least effort - efficiency 
