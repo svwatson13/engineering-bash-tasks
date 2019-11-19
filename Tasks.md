@@ -14,4 +14,8 @@
 - New feed eradicator
 
 ## Task management
-- Identifying tasks which take least time for least effort - efficiency 
+- Identifying tasks which take least time for least effort - efficiency
+- Pareto Principle: 20/80
+
+## Sensibility
+- Allowing time for breaks and food/drinks
